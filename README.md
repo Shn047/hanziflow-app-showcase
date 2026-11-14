@@ -9,7 +9,7 @@ A Flutter app that takes absolute beginners through **HSK 1 Chinese**, with hone
 | | |
 |---|---|
 | **Status** | Live beta, deployed; user testing with beginners is next |
-| **Team** | Team of 3 · Capstone project, KMUTT · Jan – Nov 2026 |
+| **Team** | Team of 3 · Capstone project, KMUTT |
 | **My role** | Built the Flutter app; main contributor to the pronunciation model |
 | **Stack** | Flutter · Dart · FastAPI · Supabase (PostgreSQL) · AWS EC2 · Nginx · PyTorch · Wav2Vec2 · ResNet CNN · DeepSeek |
 
@@ -113,10 +113,6 @@ Precision 100% (no wrong pronunciation rated good) · recall 56% · accuracy 78%
 | Unknown inputs (946) | 0 | 946 |
 
 0 unknown inputs accepted · 1.6% of valid writing asked to retry. Separately, the model recognised characters with 97.55% overall accuracy.
-
-## Next: user testing
-
-5–10 absolute beginners will test the app. App pronunciation scores will be compared with a Chinese teacher's ratings (Pearson correlation), along with a SUS usability score.
 
 ## What I learned
 

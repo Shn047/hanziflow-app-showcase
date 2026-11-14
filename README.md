@@ -2,7 +2,7 @@
 
 A Flutter app that takes absolute beginners through **HSK 1 Chinese**, with honest AI feedback on pronunciation and handwriting, and AI-generated practice sentences that stay within what a beginner knows.
 
-**[Try the live app](https://www.hanziflow.site)** · **[Full case study and demo video](https://shn047.github.io/projects/hanziflow-app.html)**
+ **[Full case study and demo video](https://shn047.github.io/projects/hanziflow-app.html)**
 
 > This repository is a showcase. The source code is private while the capstone project is being assessed; a code walkthrough is available on request.
 
